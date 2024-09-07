@@ -1,1 +1,1 @@
-s
+This chatbot uses Retrieval-Augmented Generation (RAG) combined with Langchain to provide intelligent and context-aware responses. It retrieves relevant information from a knowledge base and generates responses using a language model, ensuring accuracy and fluency.
